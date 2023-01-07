@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "792033182347",
+    "project_id": "fare-calculator-30474",
+    "storage_bucket": "fare-calculator-30474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792033182347:android:cd03c665733388cda00a8e",
+        "android_client_info": {
+          "package_name": "com.example.farecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792033182347-qe1ch89h673c8v03dvhctcng5eaic8kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJpvxVNMX44MiO58JSM_sTtmv6_A3Mgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792033182347-qe1ch89h673c8v03dvhctcng5eaic8kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792033182347:android:cab579dcb943cad8a00a8e",
+        "android_client_info": {
+          "package_name": "com.thesis.fair_calculator_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792033182347-qe1ch89h673c8v03dvhctcng5eaic8kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJpvxVNMX44MiO58JSM_sTtmv6_A3Mgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792033182347-qe1ch89h673c8v03dvhctcng5eaic8kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
